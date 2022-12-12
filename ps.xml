@@ -1,0 +1,18 @@
+<?xml version = "1.0"?>
+<grade>
+    <stud id="435">
+        <firstname>joseph</firstname>
+        <lastname>raj</lastname>
+        <score>75</score>
+    </stud>
+    <stud id="355">
+        <firstname>Vani</firstname>
+        <lastname>Neelakandan</lastname>
+        <score>95</score>
+    </stud>
+    <stud id="555">
+        <firstname>Vinothalin</firstname>
+        <lastname>Stefen</lastname>
+        <score>88</score>
+    </stud>
+</grade>
